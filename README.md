@@ -2,7 +2,7 @@
 
 Listen To Best Music Anywhere
 
-Paste This Code In Any Website Console
+Paste This Code In Any Website Console \n
 `ctrl+shift+J`
 
 ```
