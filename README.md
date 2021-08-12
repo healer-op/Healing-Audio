@@ -2,8 +2,10 @@
 
 Listen To Best Music Anywhere
 
-Paste This Code In Any Website Console \n
-`ctrl+shift+J`
+Paste This Code In Any Website Console
+
+
+. `ctrl+shift+J`
 
 ```
 //PUT THIS CODE IN CONSOLE OF ANY WEBSITE
