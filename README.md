@@ -12,7 +12,7 @@ Paste This Code In Any Website Console
 //PLAY MUSIC ON ANY WEBSITE BACKGROUND
 console.log(c` WELCOME TO ${'HEALMUSIC!!'}.underline `.white.redBG.bold.style('font-size: 24px;'));
 var url = "https://healer-op.github.io/Healing-Audio/"; //u can this to if you want to.
-newwindow=window.open(url,'name','height=500,width=150');
+newwindow=window.open(url,'name','height=440,width=150');
 if (window.focus) {newwindow.focus()}
 //©️Copyrighted 2021 Healer Github.
 ```
