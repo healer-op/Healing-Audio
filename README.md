@@ -7,6 +7,9 @@ Paste This Code In Any Website Console
 
 . `ctrl+shift+J`
 
+## Make Sure Your Login With Spotify
+ad free spotify music
+
 ```
 //PUT THIS CODE IN CONSOLE OF ANY WEBSITE
 //PLAY MUSIC ON ANY WEBSITE BACKGROUND
