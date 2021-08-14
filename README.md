@@ -21,5 +21,5 @@ if (window.focus) {newwindow.focus()}
 //©️Copyrighted 2021 Healer Github.
 console.log("%cHEALING AUDIO","color:yellow;font-family:system-ui;font-size:4rem;-webkit-text-stroke: 1px black;font-weight:bold");
 if (healer == 1) {
-console.log("%cSpotify Ad-Free Connected","color:green;font-family:system-ui;font-size:2rem;-webkit-text-stroke: 1px black;font-weight:bold");}
+console.log("%c     Spotify Ad-Free Connected","color:green;font-family:system-ui;font-size:2rem;-webkit-text-stroke: 1px black;font-weight:bold");}
 ```
